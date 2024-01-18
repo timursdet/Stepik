@@ -5,4 +5,3 @@ while num != 0:
     new_num = new_num + str(last_digit)
     num = num // 10
 print(new_num)
-print(new_num)
